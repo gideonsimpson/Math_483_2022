@@ -1,6 +1,7 @@
 [deps]
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 Bootstrap = "e28b5b4c-05e8-5b66-bc03-6f0c0a0a06e0"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
